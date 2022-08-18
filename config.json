@@ -1,0 +1,27 @@
+{
+    "color": "901f9c",
+    "owner_id": 814476198733152266,
+    "server_id": 920359142097567824,
+    "logo_url": "https://i.imgur.com/3cwx8nU.png",
+
+    "socials": {
+        "s_store": "https://store.orbitdev.net/",
+        "s_twitter": "https://twitter.orbitdev.net/",
+        "s_github": "http://github.orbitdev.net/",
+        "s_ip": "orbitdev.net"
+    },
+
+    "roles": {
+        "owner_role": 920359353612132433,
+        "admin_role": 920423568238579753,
+        "developer_role": 920423611368620104
+    },
+    
+    "channels":{
+        "rules_channel": 920365204590723092,
+        "spoiler_channel": 920688253261205605,
+        "announcements_channel": 995754813704896563
+    },
+
+    "token": "MTAwOTk1NDU5ODA0MTE3ODE3NA.GhU-j9.iO45uWRoQ56XuxBrhxgGR4MDaJ22yT2mIvh9_Y"
+}

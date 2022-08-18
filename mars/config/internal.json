@@ -1,0 +1,14 @@
+{
+    "debug": true,
+    "save-logs": false,
+
+    "test-phase": true,
+
+    "correct_color": "33FF00",
+    "wrong_color": "FF0000",
+
+    "new_feature_color": "FFBD00",
+    "update_color": "97FF00",
+    "about_color": "4182FF",
+    "bug_fix_color": "4182FF"
+}
